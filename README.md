@@ -1,5 +1,5 @@
 # terjemahin
-CLI for translate (using Yandex API) <br>
+Translate is a command-line interface to the Yandex translate API <br>
 Please see to the tutorial. https://youtu.be/h0jNBf73RVA
 
 <h1> Install </h1>
